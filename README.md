@@ -10,6 +10,7 @@ I'm plan to create a video course about [Koa v2](https://github.com/koajs/koa/tr
 * Add and create middleware.
 * Using `async/await` with asynchronous operations.
 * Advanced routing.
+* Testing with Jest and [supertest](https://github.com/visionmedia/supertest).
 * Usage with MongoDB database with `mongoose.`.
 * Pagination and bulk requests.
 * Configuring authentication with JWT.
